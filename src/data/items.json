@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Sledgehammer",
+      "price": 125.76,
+      "imgUrl": "/imgs/hammer.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Axe",
+      "price": 190.51,
+      "imgUrl": "/imgs/axe.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Chisel",
+      "price": 13.9,
+      "imgUrl": "/imgs/chisel.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Hacksaw",
+      "price": 19.45,
+      "imgUrl": "/imgs/saw.jpeg"
+    }
+  ]
+  
